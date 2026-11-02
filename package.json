@@ -1,0 +1,17 @@
+﻿{
+  "name": "npm-gpt",
+  "version": "2.0.0",
+  "description": "PenguinGPT terminal AI chat and image studio",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "npm-gpt": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

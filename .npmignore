@@ -1,0 +1,5 @@
+﻿*.backup-*
+chat-history.json
+chat-history.json.*
+*.tgz
+npm-debug.log*
